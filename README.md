@@ -6,7 +6,7 @@ I specialize in **Java/Spring Boot**, **TypeScript/React**, and **DevOps automat
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Portfolio Projects
 
 | Project | Description | Tech Stack | ⭐ |
 |----------|--------------|-------------|----|
