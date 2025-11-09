@@ -10,7 +10,7 @@ I specialize in **Java/Spring Boot**, **TypeScript/React**, and **DevOps automat
 
 | Project | Description | Tech Stack | ⭐ |
 |----------|--------------|-------------|----|
-| [office-energy-service](https://github.com/yourname/office-energy-service) | REST API for managing building energy statements | Spring Boot · JPA · Liquibase · Testcontainers | ★ |
+| [spring-boot-carbon-two](https://github.com/stevanrose/spring-boot-carbon-two) | REST API for managing office and employee carbon footprint | Spring Boot · JPA · Liquibase · Testcontainers | ★ 
 
 ---
 
